@@ -3,7 +3,7 @@ name: Portfolio CI/CD
 on:
   push:
     branches:
-      - main  # Change if you want a different branch
+      - master  # Change if you want a different branch
 
 jobs:
   build-and-deploy:
