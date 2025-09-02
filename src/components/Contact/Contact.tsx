@@ -54,6 +54,7 @@ const Contact: React.FC = () => {
   };
 
   console.log({ isSent });
+  console.log("testing");
 
   return (
     <section
